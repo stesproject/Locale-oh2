@@ -97,7 +97,7 @@ Here they are, \n[6], it's the heroes!;Eccoli, \n[6], gli eroi!;;
 ;\nb[\n[5]]Ed è proprio verso la \map[Wild Valley] che dovrai proseguire.;;
 ;\nb[\n[1]]Perché? Cosa c'è lì?;;
 ;\nb[\n[5]]Devi attraversare la valle, raggiungere le \map[Rocky Mountains] ed infine su in cima fino alla...;;
-;\nb[\n[5]]\delay[3]\map[Dead Valley];;
+;\nb[\n[5]]\delay[3]\map[Dead Valley].\delay[0];;
 ;\nb[\n[2]]Oddio, che posto è?!;;
 ;\nb[\n[3]]E perché dobbiamo andarci?!;;
 ;\nb[\n[5]]Nella \map[Dead Valley] ci vanno tutti i morti.;;
