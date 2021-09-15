@@ -1,6 +1,6 @@
 en;it;es;fr
-You can't control anyone here.;Non puoi controllare nessuno qui.;;
-You're out of \v[95]!;Hai finito la \v[95]!;;
+You cannot control anyone here.;Non puoi controllare nessuno qui.;;
+You are out of \v[95]!;Hai finito la \v[95]!;;
 Only \n[2] can use the \ni[11]!;Solo \n[2] può utilizzare il \ni[11]!;;
 \lbl\c[15]It contains all the weapons you'll find in your adventure!\lbl;\lbl\c[15]Riponi qui tutte le armi che otterrai durante il gioco!\lbl;;
 Sword already equipped.;Spada già equipaggiata.;;
@@ -19,3 +19,5 @@ Not enough eggs.;Non hai abbastanza uova.;;
 You need 1 \v[95] to upgrade.;Per procedere hai bisogno di 1 \v[95].;;
 You don’t have 1 \v[95].;Non hai 1 \v[95].;;
 Not enough Dindini.;Non hai abbastanza Dindini.;;
+You cannot further upgrade the armor now.;Non puoi potenziare ulteriormente l’armatura ora.;;
+;Difesa incrementata: +1!;;
