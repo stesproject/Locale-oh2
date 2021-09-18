@@ -1,7 +1,7 @@
 en;it;es;fr
-Meat§ Restores full energy to one of the heroes.;Carne§ Permette di recuperare tutta l’energia ad uno dei tuoi eroi.;Carne;Viande
+Meat§ Fully recovers one hero's Energy.;Carne§ Permette di recuperare tutta l’energia ad uno dei tuoi eroi.;Carne;Viande
 Egg;Uovo;;
-Health Potion§ Restores full energy to all the heroes.;Pozione Salutare§ Permette di recuperare tutta l’energia a tutti gli eroi.;;
+Health Potion§ Restores full energy to every hero.;Pozione Salutare§ Permette di recuperare tutta l’energia a tutti gli eroi.;;
 Red Orbs§ Use them to upgrade your swords.;Sfere Rosse§ Utili per potenziare e fare trasformare le tue spade.;;
 Pebbles;Sassolini;;
 Iron Ingots;Lingotti di ferro;;
@@ -10,7 +10,7 @@ Silver Key;Chiave d'Argento;;
 Controller Crystal;Cristallo Controllore;Controlador de Cristal;Cristal de Contrôle
 Monolith Key;Chiave dell'Obelisco;;
 Regenerator§ Automatically regenerates your energy.;Rigeneratore§ Rigenera automaticamente la tua energia.;Regenerador;Régénérateur
-Controls;Comandi di Gioco;;
+Game Controls;Comandi di Gioco;;
 Golden Sword;Spada Dorata;;
 Ancient Sword;Spada Antica;;
 Granite Sword;Spada di Pietra;;
@@ -39,16 +39,16 @@ King's Crown;Corona del Re;;
 Fire Pearl;Perla di Fuoco;;
 Ice Pearl;Perla di Ghiaccio;;
 Light Pearl;Perla di Luce;;
-Armor Powerup§ Increases the shield of your Armor by +1.;Potenziatore Armatura§ Incrementa di +1 la difesa della tua Armatura.;;
-Power Glove§ Fully recharge the Skills Bar.;Guanto del Potere§ Ricarica completamente la Barra delle Abilità.;;
-Blankly hero;Eroe inespressivo;;
-Ourhero old style;Nostroeroe vecchio stile;;
+Armor Enhancer§ Increases your Armor's Defense by +1.;Potenziatore Armatura§ Incrementa di +1 la difesa della tua Armatura.;;
+Power Gauntlet§ Fully recharges your Skill Bar.;Guanto del Potere§ Ricarica completamente la Barra delle Abilità.;;
+Blank-Stare Hero;Eroe inespressivo;;
+Old-School Ourhero;Nostroeroe vecchio stile;;
 Shadow hero;Eroe ombra;;
-No head;Senza testa;;
+Headless Hero;Senza testa;;
 Skilled hero;Eroe abilità;;
 Bandana and jeans;Jeans e bandana;;
-Armor§ It can be upgraded to increase your guard.;Armatura§ Può essere potenziata per incrementare la difesa.;;
-Munition§ Recharge ammunition for the Howitzword.;Munizioni§ Ricarica le munizioni della Spada Cannone.;;
+Armor§ It can be upgraded to improve defense.;Armatura§ Può essere potenziata per incrementare la difesa.;;
+Ammo Clip§ Recharges the Howitzword's ammunition.;Munizioni§ Ricarica le munizioni della Spada Cannone.;;
 Dindini;Dindini;Dindini;Dindini
 Scabbard;Fodera;;
 Ultimate Armor;Armatura Definitiva;;
