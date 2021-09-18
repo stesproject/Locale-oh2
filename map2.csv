@@ -1,6 +1,6 @@
 en;it;es;fr
 \iHere's the game menu.;\iEccoci nel menu di gioco.;;
-\iIts function is simple. To show your current Dindini or use items you picked up on your adventure, go to \c[10]ITEMS\c[0].\|;\iLa sua funzione è molto semplice: se vuoi visualizzare quanti Dindini hai, o vuoi usare qualche oggetto che hai trovato nella tua avventura, seleziona \c[10]OGGETTI\c[0].\|;;
+\iIts function is simple. To see your current Dindini or use items you picked up on your adventure, go to \c[10]ITEMS\c[0].\|;\iLa sua funzione è molto semplice: se vuoi visualizzare quanti Dindini hai, o vuoi usare qualche oggetto che hai trovato nella tua avventura, seleziona \c[10]OGGETTI\c[0].\|;;
 \iTo view information on enemies you've beaten, your game time, steps taken and miscellaneous info, select \c[10]STATS\c[0].;\iSe vuoi avere informazioni sui nemici sconfitti in battaglia, sul tempo di gioco, sui metri percorsi e altre cose varie, seleziona \c[10]STATISTICHE\c[0].;;
 \iTo manually save the game, select \c[10]SAVE GAME\c[0].;\iPer salvare il gioco quando vuoi, vai su \c[10]SALVA PARTITA\c[0].;;
 \iTo equip or upgrade a weapon, select \c[10]EQUIPMENT\c[0].;\iSe invece vuoi equipaggiare un'arma o potenziarla, seleziona la voce \c[10]EQUIPAGGIAMENTO\c[0].;;
@@ -11,7 +11,7 @@ en;it;es;fr
 \iPress the \c[10]ESCAPE\c[0] Key again to close the menu.;\iChiudi il menu premendo nuovamente \c[10]ESC\c[0].;;
 \iYou equipped the \nw[19].;\iHai equipaggiato la \nw[19].;;
 \iThe \nw[19] is the only weapon with a projectile attack, and thus able to hit enemies at a range.;\iLa \nw[19] è l'unica spada in grado di sparare e, quindi, colpire i nemici a distanza.;;
-\iYou need ammunition to fire. You can find ammunition or buy it from shopkeepers.;\iPer sparare ha bisogno di munizioni, che puoi trovare in giro, oppure comprare.;;
+\iYou need ammunition to fire. You can find ammunition on the field or buy it from shopkeepers.;\iPer sparare ha bisogno di munizioni, che puoi trovare in giro, oppure comprare.;;
 \iWhen you run out of ammo for \nw[19] it can't be used anymore. Switch to another weapon!;\iQuando le munizioni per la \nw[19] sono esaurite, non potrai più usarla e sarai costretto a cambiare arma.;;
 \iUse the \c[10]S Key\c[0] to shoot the \nw[19].;\iPremi il tasto \c[10]S\c[0] per sparare con la \nw[19].;;
 \iKeep an eye on your ammo count!;\iFai attenzione a non sprecare le munizioni!;;
@@ -22,13 +22,13 @@ en;it;es;fr
 \v[95]\lblSTATS\c[15]§ \v[95]Steps taken: \v[7]§ \v[95]Acts completed: \c[23]9/9\c[15]§ \v[95]\ic[2]\c[23]Game Clears: 200%\lbl;\v[95]\lblSTATISTICHE\c[15]§ \v[95]Metri percorsi: \v[7]§ \v[95]Atti completati: \c[23]9/9\c[15]§ \v[95]\ic[2]\c[23]Completamento Gioco: 200%\lbl;;
 \iYou can't save the game during battle.;\iNon puoi salvare il gioco durante una battaglia.;;
 \iYou can't save the game right now.;\iNon puoi salvare adesso.;;
-;\lblPERLA SPENTA§ \c[15]La \v[95] ha perso il suo potere.\lbl;;
-;\lblPOTENZIATORE ARM.: \v[35] posseduti.§ \c[15]Puoi utilizzare quest'oggetto direttamente dalla voce Equipaggiamento selezionando l'Armatura.\lbl;;
-;\i\nb[\n[2]]Hai imparato una nuova abilità grazie alla Spada di Ghiaccio!;;
-;\i\nb[\n[2]]L'abilità della Spada di Ghiaccio ti permette di recuperare completamente la tua energia e di avere un'elevata difesa durante tutta la battaglia.;;
-;\i\nb[\n[2]]Per usarla premi Q quando la barra delle abilità è piena!;;
-;\i\nb[\n[2]]Hai imparato una nuova abilità grazie all'Elettrogen!;;
-;\i\nb[\n[2]]L'abilità dell'Elettrogen ti permette di distruggere tutti i nemici in campo in un attimo colpendoli con un potente fulmine!;;
-;\i\nb[\n[2]]Inoltre, per ogni volta che userai l'abilità dell'Elettrogen, i tuoi Punti Esperienza aumenteranno di +200!;;
-;\i\nb[\n[2]]Però, data l'elevata potenza di questa abilità, la prossima volta la tua barra delle abilità necessiterà di più tempo per ricaricarsi.;;
-;\i\nb[\n[2]]Per usarla premi Q quando la barra delle abilità è piena!;;
+\lblEXPENDED PEARL§ \c[15]The \v[95] ran out of juice.\lbl;\lblPERLA SPENTA§ \c[15]La \v[95] ha perso il suo potere.\lbl;;
+\lblARMOR BOOSTER: \v[35] Owned.§ \c[15] You can use this from the EQUIPMENT menu by selecting an Armor.\lbl;\lblPOTENZIATORE ARM.: \v[35] posseduti.§ \c[15]Puoi utilizzare quest'oggetto direttamente dalla voce Equipaggiamento selezionando l'Armatura.\lbl;;
+\i\nb[\n[2]]Getting the Ice Sword taught you a new skill!;\i\nb[\n[2]]Hai imparato una nuova abilità grazie alla Spada di Ghiaccio!;;
+\i\nb[\n[2]]The Ice Sword's special skill fully restores health and buffs defense for the current battle.;\i\nb[\n[2]]L'abilità della Spada di Ghiaccio ti permette di recuperare completamente la tua energia e di avere un'elevata difesa durante tutta la battaglia.;;
+\i\nb[\n[2]]Press Q during battle with a full Skill bar to use it!;\i\nb[\n[2]]Per usarla premi Q quando la barra delle abilità è piena!;;
+\i\nb[\n[2]]Getting the Electrogen taught you a new skill!;\i\nb[\n[2]]Hai imparato una nuova abilità grazie all'Elettrogen!;;
+\i\nb[\n[2]]The Electrogen's special skill strikes every enemy on the field at once with lethal lightning bolts!;\i\nb[\n[2]]L'abilità dell'Elettrogen ti permette di distruggere tutti i nemici in campo in un attimo colpendoli con un potente fulmine!;;
+\i\nb[\n[2]]Using this skill will also grant you 200 extra EXPERIENCE points!;\i\nb[\n[2]]Inoltre, per ogni volta che userai l'abilità dell'Elettrogen, i tuoi Punti Esperienza aumenteranno di +200!;;
+\i\nb[\n[2]]It's pretty powerful, so you'll have to wait longer to use the next skill after using it.;\i\nb[\n[2]]Però, data l'elevata potenza di questa abilità, la prossima volta la tua barra delle abilità necessiterà di più tempo per ricaricarsi.;;
+\i\nb[\n[2]]Press Q during battle with a full Skill bar to use it!;\i\nb[\n[2]]Per usarla premi Q quando la barra delle abilità è piena!;;
