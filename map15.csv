@@ -23,7 +23,7 @@ Here they are, \n[6], it's the heroes!;Eccoli, \n[6], gli eroi!;;
 \nb[\n[1]]We need to do something!;\nb[\n[1]]Dobbiamo fare qualcosa!;;
 \v[95] ->§ ROAD UNDER MAINTENANCE;\v[95] ->§ STRADA BLOCCATA PER RAGIONI DI SICUREZZA.;;
 <- \v[95]§ ROAD UNDER MAINTENANCE;<- \v[95]§ STRADA BLOCCATA PER RAGIONI DI SICUREZZA.;;
-\nb[\n[5]Blimey, Ourhero!\. Here you are!\.§ We've gotten ourselves in a fine pickle here...;\nb[\n[5]]Accidenti, Nostroeroe!\. Eccoti!\.§ La situazione non è per niente delle migliori!;;
+\nb[\n[5]Blimey, \n[1]!\. Here you are!\.§ We've gotten ourselves in a fine pickle here...;\nb[\n[5]]Accidenti, \n[1]!\. Eccoti!\.§ La situazione non è per niente delle migliori!;;
 \nb[\n[5]]Hey... You aren't even carrying a single sword!;\nb[\n[5]]Hey... Ma con te non hai nemmeno una spada!;;
 \nb[\n[5]]Try searching the forest for something sword-like. Anything will help!;\nb[\n[5]]Torna nella foresta e vedi di trovarti una spada, di qualsiasi cosa sia fatta!;;
 \nb[\n[5]]Good thing you got this \nw[4] from the forest, or you'd be helpless!;\nb[\n[5]]Meno male che hai trovato questa \nw[4] nella foresta, altrimenti saresti rimasto disarmato!;;
