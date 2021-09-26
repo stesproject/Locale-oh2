@@ -118,7 +118,7 @@ I can give you no more for your kill tally.;Da me non otterrai più nulla in cam
 We need a new king!;Abbiamo bisogno di un nuovo re!;;
 Hail, brave heroes!;Salve impavidi eroi.;;
 \nb[\n[1]]Hey there!;\nb[\n[1]]Olà!;;
-Place the crown in the throne room!;Riponi la corona nella sala del trono!;;
+Place the crown in the \map[Throne Room]!;Riponi la corona nella \map[Throne Room]!;;
 Well done!;Ben fatto!;;
 \nb[\n[5]]Heroes, that is great!\.§ You finally secured the \ni[15]!;\nb[\n[5]]Eroi, è fantastico!\.§ Siete riusciti a recuperare la \ni[15], grandi!;;
 \nb[\n[1]]Aren't we just the strongest and bravest of them all?;\nb[\n[1]]Visto come siamo forti e valorosi?;;
