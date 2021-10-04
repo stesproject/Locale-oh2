@@ -1,7 +1,7 @@
 en;it;es;fr
-;\nb[GUARDIA]Hey! E voi cosa ci fate qui???;;
-;\nb[\n[3]]Dovremmo essere noi a farvi questa domanda!;;
-;Tranquilli, ora non perderemo più d'occhio la \ni[15], la sorveglieremo giorno e notte.;;
-;\nb[\n[1]]Ma qui non diventa mai notte!;;
-;Tranquilli, ora non perderemo più d'occhio la \ni[15], la sorveglieremo continuamente.;;
-;\nb[\n[1]]Ok.;;
+\nb[GUARD]Hey! What are you doing here???;\nb[GUARDIA]Hey! E voi cosa ci fate qui???;;
+\nb[\n[3]]That's what we should be asking you!;\nb[\n[3]]Dovremmo essere noi a farvi questa domanda!;;
+Don't worry, we won't take our eyes off the \ni[15] ever again. We'll guard it day and night.;Tranquilli, ora non perderemo più d'occhio la \ni[15], la sorveglieremo giorno e notte.;;
+\nb[\n[1]]I...don't think I've ever seen night fall around here.;\nb[\n[1]]Ma qui non diventa mai notte!;;
+Don't worry, we won't take our eyes off the \ni[15] ever again. We'll guard it constantly.;Tranquilli, ora non perderemo più d'occhio la \ni[15], la sorveglieremo continuamente.;;
+\nb[\n[1]]Cool.;\nb[\n[1]]Ok.;;
