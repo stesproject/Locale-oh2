@@ -1,9 +1,9 @@
 en;it;es;fr
-Ride the contraption?§ Yes§ No;Vuoi salire sulla carrucola?§ Sì§ No;;
+\lblRide the contraption?\lbl§ Yes§ No;\lblVuoi salire sulla carrucola?\lbl§ Sì§ No;;
 Ever since the King died we've only kept this one entrance to the Castle open. The one on the eastern side has been closed down.;Da quando il Re è morto, abbiamo preferito tenere una sola entrata per il Castello, chiudendo quella affacciata sul lato est.;;
 Opening gates without permission is forbidden. Thus, this road has been closed as well.;È proibito aprire i cancelli, quindi anche questa strada è stata chiusa.;;
 But if you need to get up to the \map[Rocky Mountains], you can use this here contraption.;Ma se desiderate andare su in cima fino alle \map[Rocky Mountains], potete utilizzare la carrucola qui di fronte.;;
-\gThough...\. If I had a few more Dindini...\. I might afford to look the other way...§ Pay 200 Dindini§ Refuse;\gPerò...\. Magari, per alcuni Dindini...\. Forse potrei lasciarti passare...§ Paga 200 Dindini§ Rifiuta;;
+\gThough...\. if I had a few more Dindini...\. I might afford to look the other way...§ Pay 200 Dindini§ Refuse;\gPerò...\. magari, per alcuni Dindini...\. forse potrei lasciarti passare...§ Paga 200 Dindini§ Rifiuta;;
 You don't even have 200 Dindini...;Non ce li hai 200 Dindini...;;
 As you wish...;Ok, come preferisci...;;
 Nothing happens.;Non accade nulla.;;
