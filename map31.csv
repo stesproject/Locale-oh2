@@ -1,9 +1,9 @@
 en;it;es;fr
-;\nb[SAGGIO]Eccoti, eroe!\.§ Come ben sai, procedendo di qua accederai all'Arena!;;
-;\nb[SAGGIO]L'Arena è molto utile per allenarsi in battaglia, ma anche per guadagnare qualche Dindino in più!;;
-;\nb[SAGGIO]Infatti l'Arena si è rinnovata: oltre alla classica 'Battaglia in Arena', dove guadagni Dindini in base al numero di nemici sconfitti, potrai ora partecipare alla nuova sfida 'Il Lancio del Peso'!;;
-;\nb[SAGGIO]In questa nuova sfida dovrai caricare la tua spada e, con un po' di fortuna, lanciare il peso il più lontano possibile, battendo il tuo rivale!;;
-;\nb[SAGGIO]Da ora potrai accedere all'Arena quando vorrai!\|§ Io sarò ad aspettarti fuori dal Castello.\. Vieni da me non appena sarai pronto a proseguire con la tua avventura!;;
-;Sei pronto per cominciare una nuova sfida in Arena?;;
-;\lbl\c[14]SCEGLI LA MODALITÀ ARENA:\c[10]\lbl§ Battaglia in Arena§ Lancio del Peso§ \c[0]Esci;;
-;Non vedo l'ora di partecipare alla prossima sfida!;;
+\nb[SAGE]Hail, hero!\.§ You may already know that, but this is the way to the Arena!;\nb[SAGGIO]Eccoti, eroe!\.§ Come ben sai, procedendo di qua accederai all'Arena!;;
+\nb[SAGE]The Arena will let you brush up on your combat techniques, all while earning you a little extra Dindini!;\nb[SAGGIO]L'Arena è molto utile per allenarsi in battaglia, ma anche per guadagnare qualche Dindino in più!;;
+\nb[SAGE]We've made some renovations to the Arena, too! Now besides the Arena Battle, your typical baddie-crushing venue where you earn some Dindini for each baddie knocked out, we also have the Homerun Challenge!;\nb[SAGGIO]Infatti l'Arena si è rinnovata: oltre alla classica 'Battaglia in Arena', dove guadagni Dindini in base al numero di nemici sconfitti, potrai ora partecipare alla nuova sfida 'Il Lancio del Peso'!;;
+\nb[SAGE]In the Homerun Challenge, you'll have to charge the strongest sword aggack you can to send the target farther away than your opponent!;\nb[SAGGIO]In questa nuova sfida dovrai caricare la tua spada e, con un po' di fortuna, lanciare il peso il più lontano possibile, battendo il tuo rivale!;;
+\nb[SAGGIO]Da ora potrai accedere all'Arena quando vorrai!\|§ Io sarò ad aspettarti fuori dal Castello.\. Vieni da me non appena sarai pronto a proseguire con la tua avventura!;\nb[SAGGIO]Da ora potrai accedere all'Arena quando vorrai!\|§ Io sarò ad aspettarti fuori dal Castello.\. Vieni da me non appena sarai pronto a proseguire con la tua avventura!;;
+Are you ready to enter the Arena?;Sei pronto per cominciare una nuova sfida in Arena?;;
+\lbl\c[14]CHOOSE A SPORT:\c[10]\lbl§ Arena Battle§ Homerun Challenge§ \c[0]Esci;\lbl\c[14]SCEGLI LA MODALITÀ ARENA:\c[10]\lbl§ Battaglia in Arena§ Lancio del Peso§ \c[0]Esci;;
+I can't wait to compete in the next challenge!;Non vedo l'ora di partecipare alla prossima sfida!;;

@@ -1,10 +1,10 @@
 en;it;es;fr
-;\nb[GUARDIANO]Quali coraggiosi eroi osano arrivare fin qua in cima alle Montagne Rocciose al cospetto del Guardiano?;;
-;\nb[\n[3]]Noi!;;
-;\nb[GUARDIANO]E voi chi siete?!;;
-;\nb[\n[3]]I migliori.;;
-;\nb[GUARDIANO]Bene, sappiate che se volete proseguire per questa strada...\. Dovrete battervi con me!;;
-;\nb[\n[1]]Nessun problema, guardiano!;;
-;\nb[\n[1]]Noi dobbiamo raggiungere la \map[Dead Valley] e recuperare la \ni[15], per salvare il Regno!;;
-;\nb[GUARDIANO]Non mi interessano i vostri problemi, battetevi e vedremo.;;
-;\n[1] è stato indebolito, non ha nemmeno più le forze per spiccare un salto in battaglia!;;
+\nb[GUARDIAN]What bold and rash hero dares scale the summit of the Rocky Mountains and face the Guardian's wrath?;\nb[GUARDIANO]Quali coraggiosi eroi osano arrivare fin qua in cima alle Montagne Rocciose al cospetto del Guardiano?;;
+\nb[\n[3]]That would be us!;\nb[\n[3]]Noi!;;
+\nb[GUARDIAN]Who are you?!;\nb[GUARDIANO]E voi chi siete?!;;
+\nb[\n[3]]The best heroes around!;\nb[\n[3]]I migliori.;;
+\nb[GUARDIAN]Know then that to earn the right to pass through this road...\. you must best me in battle first!;\nb[GUARDIANO]Bene, sappiate che se volete proseguire per questa strada...\. Dovrete battervi con me!;;
+\nb[\n[1]]That will be no problem at all, guardian!;\nb[\n[1]]Nessun problema, guardiano!;;
+\nb[\n[1]]We need to pass through here to the \map[Dead Valley] to recover the \ni[15] and save the Kingdom!;\nb[\n[1]]Noi dobbiamo raggiungere la \map[Dead Valley] e recuperare la \ni[15], per salvare il Regno!;;
+\nb[GUARDIAN]Your motives are of no concern to me. Only your worthiness is.;\nb[GUARDIANO]Non mi interessano i vostri problemi, battetevi e vedremo.;;
+\n[1] is weakened! He can't even jump during battle anymore!;\n[1] è stato indebolito, non ha nemmeno più le forze per spiccare un salto in battaglia!;;
