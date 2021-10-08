@@ -1,11 +1,11 @@
 en;it;es;fr
-;\nb[???]Ahahah!\. Guarda un po' chi abbiamo qui!;;
-;\nb[???]\n[1], ci rincontriamo.;;
-;\nb[\n[1]]No! Bossfinale!\.§ Non ti avevo eliminato?!;;
-;\nb[BOSSFINALE]Infatti sono morto, siete nella \map[Dead Valley], sciocchi!;;
-;\nb[BOSSFINALE]Sono stato fortunato...\. io essendo morto non posso uscire dalla \map[Dead Valley]...\|§ Infatti siete venuti voi da me!\. Ahah!\|§ Ora potrò avere la mia vendetta.;;
-;\nb[BOSSFINALE]Vi lascio indovinare le mie intenzioni...\|§ Lo vedete il mio spadone gigante?;;
-;\nb[\n[1]]Ma...\. è morto!;;
-;\nb[\n[2]]Certo, l'hai sconfitto con la \nw[14]!§ Questa è l'unica spada in grado di uccidere le anime, persino dei morti!;;
-;\nb[\n[1]]Oh.;;
-;\nb[\n[3]]Guardate, sembra che Bossfinale abbia lasciato cadere qualcosa.;;
+\nb[???]Ahahah!\. Look who's there!;\nb[???]Ahahah!\. Guarda un po' chi abbiamo qui!;;
+\nb[???]\n[1], so we meet again.;\nb[???]\n[1], ci rincontriamo.;;
+\nb[\n[1]]No! Finalboss!\.§ I thought I had killed you?!;\nb[\n[1]]No! Bossfinale!\.§ Non ti avevo eliminato?!;;
+\nb[FINALBOSS]Indeed I am dead. But this is the \map[Dead Valley], fools!;\nb[BOSSFINALE]Infatti sono morto, siete nella \map[Dead Valley], sciocchi!;;
+\nb[FINALBOSS]Must be my lucky day...\. The dead cannot leave the \map[Dead Valley]...\|§ But you came to me instead!\. Ahah!\|§ Revenge is mine at least.;\nb[BOSSFINALE]Sono stato fortunato...\. io essendo morto non posso uscire dalla \map[Dead Valley]...\|§ Infatti siete venuti voi da me!\. Ahah!\|§ Ora potrò avere la mia vendetta.;;
+\nb[FINALBOSS]See my humongous sword...?\|§ I'll give you one guess to what I'm going to do with it...;\nb[BOSSFINALE]Vi lascio indovinare le mie intenzioni...\|§ Lo vedete il mio spadone gigante?;;
+\nb[\n[1]]Wait...\. He's dead again!;\nb[\n[1]]Ma...\. è morto!;;
+\nb[\n[2]]Of course he is, you struck him down with the \nw[14]!§ It's the only sword capable of cutting through a dead man's soul!;\nb[\n[2]]Certo, l'hai sconfitto con la \nw[14]!§ Questa è l'unica spada in grado di uccidere le anime, persino dei morti!;;
+\nb[\n[1]]Oh.;\nb[\n[1]]Oh.;;
+\nb[\n[3]]Look at that, Finalboss dropped something!;\nb[\n[3]]Guardate, sembra che Bossfinale abbia lasciato cadere qualcosa.;;
