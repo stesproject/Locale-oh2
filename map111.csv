@@ -1,8 +1,8 @@
 en;it;es;fr
-;Non hai ricevuto nessuna ricompensa.;;
-;\lblVuoi combattere di nuovo?§ Sì§ No;;
-;\lblScegli il livello di potenza dei nemici:\c[14]\lbl§ \ic[1]LIVELLO 1: Normale§ \ic[1]LIVELLO 2: Cattivo§ \ic[1]LIVELLO 3: Difficile;;
-;\lblSconfiggi il maggior numero di nemici nel tempo limite di 1 minuto!\lbl;;
-;Pronti...\| VIA!!! \^;;
-;\lblBattaglia terminata!\lbl;;
-;Hai sconfitto:§ \c[18]\v[38] nemici!;;
+You didn't earn any reward...;Non hai ricevuto nessuna ricompensa.;;
+\lblFight again?§ Yes§ No;\lblVuoi combattere di nuovo?§ Sì§ No;;
+\lblChoose the difficulty level:\c[14]\lbl§ \ic[1]LEVEL 1: Normal§ \ic[1]LEVEL 2: Nasty§ \ic[1]LEVEL 3: Hard;\lblScegli il livello di potenza dei nemici:\c[14]\lbl§ \ic[1]LIVELLO 1: Normale§ \ic[1]LIVELLO 2: Cattivo§ \ic[1]LIVELLO 3: Difficile;;
+\lblDefeat as many baddies as you can within 1 minute!\lbl;\lblSconfiggi il maggior numero di nemici nel tempo limite di 1 minuto!\lbl;;
+Ready...\| GO!!! \^;Pronti...\| VIA!!! \^;;
+\lblBattle's over!\lbl;\lblBattaglia terminata!\lbl;;
+You defeated:§ \c[18]\v[38] baddies!;Hai sconfitto:§ \c[18]\v[38] nemici!;;
