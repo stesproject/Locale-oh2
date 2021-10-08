@@ -39,10 +39,10 @@ Website;Sito Web;Sitio Web;Site internet
 Language: ENG;Lingua: ITA;Idioma: ESP;Langue: FRA
 YOU LOSE\c[10];PERDI\c[10];;
 \c[15]Use \v[95];\c[15]Usa \v[95];;
-A lot;Tanti;;
+Lotsa;Tanti;;
 Using.;In uso.;;
 View;Visualizza;;
-YOU FIND\c[14];TROVI\c[14];HAS ENCONTRADO\c[14];TU TROUVES\c[14]
+YOU FOUND\c[14];TROVI\c[14];HAS ENCONTRADO\c[14];TU TROUVES\c[14]
 YOU HAND OVER\c[14];CONSEGNI\c[14];HAS REGALADO\c[14];TU AS DONNÉ\c[14]
 YOU GOT\c[14];RICEVI\c[14];TIENES\c[14];TU REÇOIS\c[14]
 Act \v[45]:\c[2];Atto \v[45]:\c[2];Acto \v[45]:\c[2];Acte \v[45]:\c[2]
