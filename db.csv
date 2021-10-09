@@ -9,7 +9,7 @@ King's Key;Chiave del Re;;
 Silver Key;Chiave d'Argento;;
 Controller Crystal;Cristallo Controllore;Controlador de Cristal;Cristal de Contrôle
 Monolith Key;Chiave dell'Obelisco;;
-Regenerator§ Automatically regenerates your energy.;Rigeneratore§ Rigenera automaticamente la tua energia.;Regenerador;Régénérateur
+Regenerator§ Slowly regenerates energy when walking.;Rigeneratore§ Rigenera automaticamente la tua energia.;Regenerador;Régénérateur
 Game Controls;Comandi di Gioco;;
 Golden Sword;Spada Dorata;;
 Ancient Sword;Spada Antica;;
@@ -48,7 +48,7 @@ Headless Hero;Senza testa;;
 Skilled hero;Eroe abilità;;
 Bandana and jeans;Jeans e bandana;;
 Armor§ It can be upgraded to improve defense.;Armatura§ Può essere potenziata per incrementare la difesa.;;
-Ammo Clip§ Recharges the Howitzword's ammunition.;Munizioni§ Ricarica le munizioni della Spada Cannone.;;
+Bullet§ Ammunition for the Howitzword;Munizioni§ Ricarica le munizioni della Spada Cannone.;;
 Dindini;Dindini;Dindini;Dindini
 Scabbard;Fodera;;
 Ultimate Armor;Armatura Definitiva;;
